@@ -5,6 +5,7 @@ import org.junit.jupiter.api.*;
 import es.ull.passengers.Passenger;
 import static org.junit.jupiter.api.Assertions.*;
 
+// Pruebas para probar la interacción entre las clases Flight y Passenger.
 class FlightPassengersTest {
   Flight flight;
   Passenger passenger;
